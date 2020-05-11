@@ -1,4 +1,4 @@
-package ariefzainuri.com.dribbble_clone
+package com.bottomnavbartemplate.flutter
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity

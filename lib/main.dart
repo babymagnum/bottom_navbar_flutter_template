@@ -22,7 +22,7 @@ class MyApp extends StatelessWidget {
     SystemChrome.setPreferredOrientations([DeviceOrientation.portraitUp]);
     
     return MaterialApp(
-      title: 'App Name',
+      title: 'Bottom Navbar Flutter Template',
       navigatorKey: globalNavigatorKey,
       initialRoute: Router.initialRoute,
       debugShowCheckedModeBanner: false,
